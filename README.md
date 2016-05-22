@@ -1,3 +1,0 @@
-# hermetiphotography
-Hermetic Photography
-html
